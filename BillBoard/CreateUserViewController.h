@@ -1,5 +1,5 @@
 //
-//  BillBoardViewController.h
+//  CreateUserViewController.h
 //  BillBoard
 //
 //  Created by Kedan Li on 14-9-19.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BillBoardViewController : UIViewController <UITextFieldDelegate>
+@interface CreateUserViewController : UIViewController <UITextFieldDelegate>
 
 @end

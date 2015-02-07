@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>email</key>
+	<string>likedan5@hotmail.com</string>
+	<key>pass</key>
+	<string>likedan5</string>
+	<key>name</key>
+	<string>Kedan</string>
+	<key>groupList</key>
+	<dict>
+		<key>saf23fer</key>
+		<string>home need stuff</string>
+		<key>sdffwef</key>
+		<string>Ementor purchase</string>
+		<key>asdfear</key>
+		<string>new stuff</string>
+		<key>afewaef</key>
+		<string>personal comsumption</string>
+	</dict>
+</dict>
+</plist>
